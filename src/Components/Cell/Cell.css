@@ -1,0 +1,15 @@
+.cell {
+    background: rgba(39, 87, 67, 0.43);
+    width: 60px;
+    height: 60px;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.clicked {
+    background: white;
+}
